@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **fauzanlubis23@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/fauzan-lubis-95632794/](https://www.linkedin.com/in/fauzan-lubis-95632794/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/fauzan-lubis/](https://www.linkedin.com/in/fauzan-lubis/)
 
 - ⚡ Fun fact **Im a cat addict**
 
