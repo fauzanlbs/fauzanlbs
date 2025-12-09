@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fauzanlbs" alt="fauzanlbs" /></a> </p>
 
-- 🔭 I’m currently working on [indoleads.com](www.indoleads.com)
+- 🔭 I’m currently working on [jomeinvoice.my](www.jomeinvoice.my)
 
 - 🌱 I’m currently improving my skill on **React, Laravel**
 
